@@ -1,0 +1,22 @@
+package einiblatt06;
+
+public class whiletofor {
+	public static void main(String[] args)
+	{
+/*		int b = 0;
+		int n = 7;
+		int e = 1;
+		while(b < 15 && n < 9) {
+		e = e + b * n - 2;
+		b = b + 2; }
+		System.out.println("e: " + e);
+*/		
+		int b=0, n=7, e=1;
+		for(b=0, n=7, e=1; b < 15 && n < 9;b=b+2)
+		{
+			e = e + b * n - 2;
+		}
+		System.out.println("e: " + e);
+	}
+
+}

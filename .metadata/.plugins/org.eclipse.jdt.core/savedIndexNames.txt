@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/katti/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+2585418274.index
+3145923735.index
+22882179.index
